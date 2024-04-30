@@ -4,7 +4,7 @@ PEMKOT
 
 Anggota Kelompok :
 
-  - Mohammed Nueno Hadiyanto (2309116081)
+  - Mohammed Noeano Hadianto (2309116081)
   - Asnan Fadjri Wahyudi (2309116094)
   - Muhammad  Shofwan Fikriyannur (2309116062)
   - Trisna Aprilia (2309116072)
