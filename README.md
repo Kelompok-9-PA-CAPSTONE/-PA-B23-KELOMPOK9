@@ -1,13 +1,16 @@
 Projek Akhir ASD Kelompok 9
+--------------------------------------------------------------------------------------------------
 
 PEMKOT
+--------------------------------------------------------------------------------------------------
 
 Anggota Kelompok :
-
+--------------------------------------------------------------------------------------------------
   - Mohammed Noeano Hadianto (2309116081)
   - Asnan Fadjri Wahyudi (2309116094)
   - Muhammad  Shofwan Fikriyannur (2309116062)
   - Trisna Aprilia (2309116072)
+--------------------------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------------------------
 ![image](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/4005e259-312f-4340-a22e-6f649de386b6)
@@ -490,3 +493,57 @@ Pengguna kemudian diminta untuk memilih salah satu opsi dari menu tersebut denga
 5.	Jika pengguna memilih opsi 5, program akan keluar dari loop dan kembali ke menu utama database Program.
 6.	Jika pengguna memasukkan pilihan yang tidak valid, program akan mencetak pesan "COBA LAGI !" dan kembali menampilkan menu untuk pemilihan opsi selanjutnya.
 
+--------------------------------------------------------------------------------------------------
+MENGGUNAKAN NILAI TAMBAHAN 
+--------------------------------------------------------------------------------------------------
+![3](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/d4662d1a-cba4-443e-af84-2e4ca7ffa36a)
+
+--------------------------------------------------------------------------------------------------
+![2](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/60c30464-569b-4996-a26e-e2474b9dd32c)
+Hosting basis data adalah layanan yang menyediakan ruang penyimpanan dan alat manajemen untuk basis data relasional. Ini memungkinkan Anda untuk menyimpan dan mengelola database Anda di server yang dirancang khusus untuk tujuan ini. Artinya, Anda tidak perlu memiliki server sendiri atau mengkhawatirkan aspek teknis dalam memelihara database.
+
+--------------------------------------------------------------------------------------------------
+![1](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/3236f325-826f-451d-b3a9-a8bdcc95879d)
+-Host: Ini adalah nama host server tempat database berada.
+-Nama : Ini adalah nama databasenya.
+-Nama Pengguna: Ini adalah nama pengguna yang digunakan untuk terhubung ke database.
+-Password: Ini adalah kata sandi yang digunakan untuk terhubung ke database.
+-Ukuran: Ini menunjukkan ukuran database.
+-Status: Ini menunjukkan status database, misalnya apakah sedang aktif atau offline.
+-Hapus: Tombol ini memungkinkan Anda untuk menghapus database.
+
+--------------------------------------------------------------------------------------------------
+![6](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/a9cd39ca-8edb-442a-a1ae-4472bdfa035f)
+-Server: Bidang ini menentukan nama host server tempat database berada. Pada gambar, nama servernya adalah sql6.freesqldatabase.com.
+-Nama Pengguna: Bidang ini memerlukan nama pengguna yang terkait dengan akun database. Pada gambar, nama penggunanya adalah sql6702972.
+-Kata Sandi: Bidang ini memerlukan kata sandi yang terkait dengan akun database. Dalam gambar, kata sandi dikaburkan oleh teks placeholder yang menunjukkan bahwa kata sandi tersebut harus diperiksa di email pengguna.
+
+--------------------------------------------------------------------------------------------------
+![4](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/8cf69cca-6cc1-4c01-8ac9-02002cac231d)
+
+--------------------------------------------------------------------------------------------------
+![7](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/e75f610b-5d93-486b-b096-fff242bc0930)
+
+--------------------------------------------------------------------------------------------------
+![8](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/09a44034-09a9-4478-a202-5af1e39854ed)
+
+--------------------------------------------------------------------------------------------------
+![8](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/479cf5c1-ecfc-4d96-b296-3438d99c3391)
+
+--------------------------------------------------------------------------------------------------
+PENJELASAN FLOWCHART
+--------------------------------------------------------------------------------------------------
+![image](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/a99a05f9-e609-4364-917d-c4d889b83a0b)
+menu awal 
+
+--------------------------------------------------------------------------------------------------
+![image](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/acb9f9b4-0097-467b-bcd2-f9488f9effc0)
+menu login
+
+--------------------------------------------------------------------------------------------------
+![pemkot baru-Menu Admin drawio](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/8501fe61-8713-4fd8-819b-81cf84678b56)
+menu admin
+
+--------------------------------------------------------------------------------------------------
+![pemkot baru-menu tamu  drawio](https://github.com/Kelompok-9-PA-CAPSTONE/-PA-B23-KELOMPOK9/assets/146003481/cbb2f672-f8da-4f23-9c56-71a4d62bd225)
+menu tamu
